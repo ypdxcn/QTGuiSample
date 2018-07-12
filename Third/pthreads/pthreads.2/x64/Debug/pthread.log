@@ -1,0 +1,4 @@
+﻿  pthread.c
+e:\下载的库\pthreads-w32-2-9-1-release\pthreads.2\pthread.h(320): error C2011: 'timespec': 'struct' type redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(39): note: see declaration of 'timespec'
+e:\下载的库\pthreads-w32-2-9-1-release\pthreads.2\pthread_mutex_consistent.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss

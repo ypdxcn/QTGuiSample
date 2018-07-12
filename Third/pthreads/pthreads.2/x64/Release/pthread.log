@@ -1,0 +1,5 @@
+﻿  pthread.c
+e:\下载的库\pthreads-w32-2-9-1-release\pthreads.2\pthread_mutex_consistent.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     Creating library .\.\pthreadVC2.lib and object .\.\pthreadVC2.exp
+  pthread.vcxproj -> E:\下载的库\pthreads-w32-2-9-1-release\pthreads.2\..\Pre-built.2\dll\pthreadVC2.dll
+  pthread.vcxproj -> ..\Pre-built.2\dll\pthreadVC2.pdb (Full PDB)
